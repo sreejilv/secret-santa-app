@@ -102,3 +102,9 @@ The application will be available at `http://localhost:3000`.
 3. View the results on the results page.
 4. Download the assignments as a CSV file using the provided button.
 
+
+### Sample CSV Files for Testing
+Two sample CSV files are provided in the data/ directory:
+   Example employee list to upload:
+   Example previous year’s assignments to test the “no repeat” rule:
+   You can upload these files directly from the main page of the app to quickly test its functionality.
